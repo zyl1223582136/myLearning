@@ -1,5 +1,28 @@
 {
   "dependencies": {
     "mathjax": "^2.7.6"
-  }
+  },
+  "name": "Gitbook",
+  "version": "1.0.0",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "devDependencies": {},
+  "scripts": {
+	 "build": "gitbook build  && cp -r ./_book/* ./docs",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zyl1223582136/myLearning.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zyl1223582136/myLearning/issues"
+  },
+  "homepage": "https://github.com/zyl1223582136/myLearning#readme",
+  "description": ""
 }
