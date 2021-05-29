@@ -1,0 +1,22 @@
+{
+	"title": "Personal record",
+	"author": "Zhang Yilin <1223582136@qq.com>",
+	"description": "This is a sample book created by gitbook",
+	"language": "zh-hans",
+	"plugins" : [ "collapsible-menu",
+				  "anchor-navigation-ex",
+				  "tbfed-pagefooter",
+				  "code",
+				  "katex",
+				   "-lunr", "-search", "search-pro",
+				   "page-treeview"
+				   
+				   ],
+	"pluginsConfig": {
+        "page-treeview": {
+            "copyright": "Copyright &#169; aleen42",
+            "minHeaderCount": "2",
+            "minHeaderDeep": "2"
+        }
+    }
+}
