@@ -9,5 +9,6 @@
 * [3.迁移学习论文研读](content/迁移学习论文研读/README.md)
     * [A Survey on Transfer Learning](content/迁移学习论文研读/A Survey on Transfer Learning.md)
 * [4.其他补充](content/其他补充/README.md)
+    * [Latex 语法备忘录](content/其他补充/Latex 语法备忘录.md)
 
 
